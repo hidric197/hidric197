@@ -4,7 +4,7 @@
 ### Contact me
 ### My email: hieutk13.4@gmail.com
 <!--
-**jokerdesu197/jokerdesu197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hidric197/hidric197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
